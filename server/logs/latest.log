@@ -1,0 +1,243 @@
+[16:00:49] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[16:00:49] [Server thread/INFO]: Loading properties
+[16:00:49] [Server thread/INFO]: Default game type: CREATIVE
+[16:00:49] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-6de2fbc-c1aa859 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[16:00:49] [Server thread/INFO]: Debug logging is disabled
+[16:00:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:00:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:00:49] [Server thread/INFO]: Generating keypair
+[16:00:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:00:49] [Server thread/INFO]: Using default channel type
+[16:00:49] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[16:00:49] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v2.1
+[16:00:49] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.7
+[16:00:49] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[16:00:49] [Server thread/INFO]: Preparing level "world"
+[16:00:49] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:00:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:00:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:00:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:00:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:00:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:00:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:00:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:00:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:00:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:00:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:00:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:00:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:00:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:00:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:00:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:00:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:00:49] [Server thread/INFO]: Mob Spawn Range: 4
+[16:00:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:00:49] [Server thread/INFO]: Structure Info Saving: true
+[16:00:49] [Server thread/INFO]: Max TNT Explosions: 100
+[16:00:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:00:49] [Server thread/INFO]: Random Lighting Updates: false
+[16:00:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:00:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:00:50] [Server thread/INFO]: View Distance: 10
+[16:00:50] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:00:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617Monument: 10387313 Slime: 987234911
+[16:00:50] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:00:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:00:50] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:00:50] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:00:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:00:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:00:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:00:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Mob Spawn Range: 4
+[16:00:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:00:50] [Server thread/INFO]: Structure Info Saving: true
+[16:00:50] [Server thread/INFO]: Max TNT Explosions: 100
+[16:00:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:00:50] [Server thread/INFO]: Random Lighting Updates: false
+[16:00:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:00:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:00:50] [Server thread/INFO]: View Distance: 10
+[16:00:50] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:00:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617Monument: 10387313 Slime: 987234911
+[16:00:50] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[16:00:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:00:50] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:00:50] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:00:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:00:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:00:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:00:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:00:50] [Server thread/INFO]: Mob Spawn Range: 4
+[16:00:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:00:50] [Server thread/INFO]: Structure Info Saving: true
+[16:00:50] [Server thread/INFO]: Max TNT Explosions: 100
+[16:00:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:00:50] [Server thread/INFO]: Random Lighting Updates: false
+[16:00:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:00:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:00:50] [Server thread/INFO]: View Distance: 10
+[16:00:50] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:00:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617Monument: 10387313 Slime: 987234911
+[16:00:50] [Server thread/INFO]: Preparing start region for level 0 (Seed: 3232464288688906131)
+[16:00:50] [Server thread/INFO]: Preparing start region for level 1 (Seed: 3232464288688906131)
+[16:00:51] [Server thread/INFO]: Preparing start region for level 2 (Seed: 3232464288688906131)
+[16:00:51] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v2.1
+[16:00:51] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.7
+[16:00:51] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[16:00:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:00:51] [Server thread/INFO]: Done (1,303s)! For help, type "help" or "?"
+[16:01:23] [User Authenticator #1/INFO]: UUID of player PoPStarGames is cb327cc9-f01b-4327-a246-e4f60ef13efb
+[16:01:23] [Server thread/INFO]: PoPStarGames[/127.0.0.1:61895] logged in with entity id 341 at ([world]28531.354244726408, 83.0, 288781.11299936386)
+[16:01:27] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
+[16:01:27] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:61899.
+[16:01:27] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
+[16:02:29] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
+[16:02:29] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
+[16:02:29] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51801.
+[16:02:29] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:61899.
+[16:02:57] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51802.
+[16:02:57] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
+[16:02:57] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
+[16:02:57] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51801.
+[16:03:38] [Thread-15/INFO]: [RaspberryJuice] Starting input thread
+[16:03:38] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51805.
+[16:03:38] [Thread-16/INFO]: [RaspberryJuice] Starting output thread!
+[16:03:38] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51802.
+[16:04:43] [Thread-17/INFO]: [RaspberryJuice] Starting input thread
+[16:04:43] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51807.
+[16:04:43] [Thread-18/INFO]: [RaspberryJuice] Starting output thread!
+[16:04:43] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51805.
+[16:05:06] [Thread-20/INFO]: [RaspberryJuice] Starting output thread!
+[16:05:06] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51808.
+[16:05:06] [Thread-19/INFO]: [RaspberryJuice] Starting input thread
+[16:05:07] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51807.
+[16:07:14] [Thread-21/INFO]: [RaspberryJuice] Starting input thread
+[16:07:14] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51818.
+[16:07:14] [Thread-22/INFO]: [RaspberryJuice] Starting output thread!
+[16:07:14] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51808.
+[16:08:22] [Thread-24/INFO]: [RaspberryJuice] Starting output thread!
+[16:08:22] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51823.
+[16:08:22] [Thread-23/INFO]: [RaspberryJuice] Starting input thread
+[16:08:22] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51818.
+[16:08:58] [Thread-25/INFO]: [RaspberryJuice] Starting input thread
+[16:08:58] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51826.
+[16:08:58] [Thread-26/INFO]: [RaspberryJuice] Starting output thread!
+[16:08:58] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51823.
+[16:11:14] [Thread-28/INFO]: [RaspberryJuice] Starting output thread!
+[16:11:14] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51836.
+[16:11:14] [Thread-27/INFO]: [RaspberryJuice] Starting input thread
+[16:11:14] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51826.
+[16:14:09] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51860.
+[16:14:09] [Thread-29/INFO]: [RaspberryJuice] Starting input thread
+[16:14:09] [Thread-30/INFO]: [RaspberryJuice] Starting output thread!
+[16:14:09] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51836.
+[16:14:49] [Thread-31/INFO]: [RaspberryJuice] Starting input thread
+[16:14:49] [Thread-32/INFO]: [RaspberryJuice] Starting output thread!
+[16:14:49] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51864.
+[16:14:49] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51860.
+[16:16:27] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51884.
+[16:16:27] [Thread-34/INFO]: [RaspberryJuice] Starting output thread!
+[16:16:27] [Thread-33/INFO]: [RaspberryJuice] Starting input thread
+[16:16:27] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51864.
+[16:16:49] [Thread-35/INFO]: [RaspberryJuice] Starting input thread
+[16:16:49] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51889.
+[16:16:49] [Thread-36/INFO]: [RaspberryJuice] Starting output thread!
+[16:16:49] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51884.
+[16:17:47] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51894.
+[16:17:47] [Thread-38/INFO]: [RaspberryJuice] Starting output thread!
+[16:17:47] [Thread-37/INFO]: [RaspberryJuice] Starting input thread
+[16:17:47] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51889.
+[16:23:41] [Thread-39/INFO]: [RaspberryJuice] Starting input thread
+[16:23:41] [Thread-40/INFO]: [RaspberryJuice] Starting output thread!
+[16:23:41] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51920.
+[16:23:41] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51894.
+[16:26:11] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51928.
+[16:26:11] [Thread-41/INFO]: [RaspberryJuice] Starting input thread
+[16:26:11] [Thread-42/INFO]: [RaspberryJuice] Starting output thread!
+[16:26:11] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51920.
+[16:27:36] [Thread-44/INFO]: [RaspberryJuice] Starting output thread!
+[16:27:36] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51939.
+[16:27:36] [Thread-43/INFO]: [RaspberryJuice] Starting input thread
+[16:27:36] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51928.
+[16:29:07] [Thread-45/INFO]: [RaspberryJuice] Starting input thread
+[16:29:07] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51944.
+[16:29:07] [Thread-46/INFO]: [RaspberryJuice] Starting output thread!
+[16:29:07] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51939.
+[16:29:17] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51947.
+[16:29:17] [Thread-47/INFO]: [RaspberryJuice] Starting input thread
+[16:29:17] [Thread-48/INFO]: [RaspberryJuice] Starting output thread!
+[16:29:17] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51944.
+[16:30:10] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51950.
+[16:30:10] [Thread-49/INFO]: [RaspberryJuice] Starting input thread
+[16:30:10] [Thread-50/INFO]: [RaspberryJuice] Starting output thread!
+[16:30:10] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51947.
+[16:35:13] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51974.
+[16:35:13] [Thread-51/INFO]: [RaspberryJuice] Starting input thread
+[16:35:13] [Thread-52/INFO]: [RaspberryJuice] Starting output thread!
+[16:35:13] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51950.
+[16:35:59] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51980.
+[16:35:59] [Thread-53/INFO]: [RaspberryJuice] Starting input thread
+[16:35:59] [Thread-54/INFO]: [RaspberryJuice] Starting output thread!
+[16:35:59] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51974.
+[16:38:02] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52103.
+[16:38:02] [Thread-55/INFO]: [RaspberryJuice] Starting input thread
+[16:38:02] [Thread-56/INFO]: [RaspberryJuice] Starting output thread!
+[16:38:02] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51980.
+[16:38:57] [Thread-57/INFO]: [RaspberryJuice] Starting input thread
+[16:38:57] [Thread-58/INFO]: [RaspberryJuice] Starting output thread!
+[16:38:57] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52127.
+[16:38:57] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52103.
+[16:44:23] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52150.
+[16:44:23] [Thread-60/INFO]: [RaspberryJuice] Starting output thread!
+[16:44:23] [Thread-59/INFO]: [RaspberryJuice] Starting input thread
+[16:44:23] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52127.
+[16:47:05] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52161.
+[16:47:05] [Thread-62/INFO]: [RaspberryJuice] Starting output thread!
+[16:47:05] [Thread-61/INFO]: [RaspberryJuice] Starting input thread
+[16:47:05] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52150.
+[16:49:16] [Thread-64/INFO]: [RaspberryJuice] Starting output thread!
+[16:49:16] [Thread-63/INFO]: [RaspberryJuice] Starting input thread
+[16:49:16] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52173.
+[16:49:16] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52161.
+[16:53:17] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52203.
+[16:53:17] [Thread-66/INFO]: [RaspberryJuice] Starting output thread!
+[16:53:17] [Thread-65/INFO]: [RaspberryJuice] Starting input thread
+[16:53:17] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52173.
+[16:55:34] [Thread-67/INFO]: [RaspberryJuice] Starting input thread
+[16:55:34] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52212.
+[16:55:34] [Thread-68/INFO]: [RaspberryJuice] Starting output thread!
+[16:55:34] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52203.
+[16:58:05] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52229.
+[16:58:05] [Thread-69/INFO]: [RaspberryJuice] Starting input thread
+[16:58:05] [Thread-70/INFO]: [RaspberryJuice] Starting output thread!
+[16:58:05] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52212.
+[16:58:17] [Thread-71/INFO]: [RaspberryJuice] Starting input thread
+[16:58:17] [Thread-72/INFO]: [RaspberryJuice] Starting output thread!
+[16:58:17] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52232.
+[16:58:17] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52229.
+[17:00:30] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52240.
+[17:00:30] [Thread-73/INFO]: [RaspberryJuice] Starting input thread
+[17:00:30] [Thread-74/INFO]: [RaspberryJuice] Starting output thread!
+[17:00:30] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52232.
+[17:01:19] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:52240.
+[17:01:21] [Server thread/INFO]: PoPStarGames lost connection: Internal Exception: java.io.IOException: Foi forçado o cancelamento de uma conexão existente pelo host remoto
+[17:01:21] [Server thread/INFO]: PoPStarGames left the game
